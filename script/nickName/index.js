@@ -12,10 +12,10 @@ var pressArray = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
 
 function preload() {
     //载入数据集用
-    godNickname = loadJSON('../../data/nickName/godNickname.json')
-    shadeWhite = loadImage('../../assets/img/nickName/shadeWhite2.png')
-    moon = loadImage('../../assets/img/nickName/moon.png')
-    title = loadFont('../../assets/font/LXGWWenKai-Regular.ttf')
+    godNickname = loadJSON('./data/nickName/godNickname.json')
+    shadeWhite = loadImage('./assets/img/nickName/shadeWhite2.png')
+    moon = loadImage('./assets/img/nickName/moon.png')
+    title = loadFont('./assets/font/LXGWWenKai-Regular.ttf')
 }
 
 function setup() {
