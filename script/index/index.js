@@ -11,7 +11,7 @@ import mythImg from "./modules/mythImg.js"
 info.show()
 
 // 加載數據
-d3.json('../data/mythTime.json').then(function (root) {
+d3.json('./data/mythTime.json').then(function (root) {
     ref.mythData = root
     // 过長的年份映射成汉字形式
     ref.mythData.map((item) => (item.year = ref.year[item.year] ? ref.year[item.year] : item.year))
