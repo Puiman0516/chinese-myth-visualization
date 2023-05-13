@@ -1,0 +1,482 @@
+﻿[
+    {
+        "name": "汉族",
+        "value": 22,
+        "data": [
+            {
+                "name": "伏羲",
+                "value": 52
+            },
+            {
+                "name": "黄帝",
+                "value": 60
+            },
+            {
+                "name": "女娲",
+                "value": 55
+            },
+            {
+                "name": "盘古",
+                "value": 208
+            },
+            {
+                "name": "盘瓠",
+                "value": 2
+            },
+            {
+                "name": "雷神",
+                "value": 11
+            },
+            {
+                "name": "天帝",
+                "value": 8
+            },
+            {
+                "name": "天女",
+                "value": 1
+            },
+            {
+                "name": "灶神",
+                "value": 5
+            },
+            {
+                "name": "颛顼",
+                "value": 11
+            },
+            {
+                "name": "嫦娥",
+                "value": 7
+            },
+            {
+                "name": "观音",
+                "value": 1
+            },
+            {
+                "name": "妈祖",
+                "value": 7
+            },
+            {
+                "name": "太白金星",
+                "value": 21
+            },
+            {
+                "name": "西王母",
+                "value": 12
+            },
+            {
+                "name": "玉皇大帝",
+                "value": 24
+            },
+            {
+                "name": "舜",
+                "value": 31
+            },
+            {
+                "name": "神农",
+                "value": 42
+            },
+            {
+                "name": "炎帝",
+                "value": 37
+            },
+            {
+                "name": "大禹",
+                "value": 76
+            },
+            {
+                "name": "尧",
+                "value": 74
+            },
+            {
+                "name": "织女",
+                "value": 4
+            }
+        ]
+    },
+    {
+        "name": "瑶族",
+        "value": 5,
+        "data": [
+            {
+                "name": "伏羲",
+                "value": 2
+            },
+            {
+                "name": "盘古",
+                "value": 35
+            },
+            {
+                "name": "盘瓠",
+                "value": 28
+            },
+            {
+                "name": "雷神",
+                "value": 1
+            },
+            {
+                "name": "密洛陀",
+                "value": 7
+            }
+        ]
+    },
+    {
+        "name": "仡佬族",
+        "value": 1,
+        "data": [
+            {
+                "name": "伏羲",
+                "value": 1
+            }
+        ]
+    },
+    {
+        "name": "壮族",
+        "value": 7,
+        "data": [
+            {
+                "name": "黄帝",
+                "value": 1
+            },
+            {
+                "name": "盘古",
+                "value": 17
+            },
+            {
+                "name": "布洛陀",
+                "value": 11
+            },
+            {
+                "name": "雷神",
+                "value": 3
+            },
+            {
+                "name": "灶神",
+                "value": 1
+            },
+            {
+                "name": "观音",
+                "value": 1
+            },
+            {
+                "name": "神农",
+                "value": 2
+            }
+        ]
+    },
+    {
+        "name": "侗族",
+        "value": 4,
+        "data": [
+            {
+                "name": "黄帝",
+                "value": 1
+            },
+            {
+                "name": "盘古",
+                "value": 8
+            },
+            {
+                "name": "雷神",
+                "value": 1
+            },
+            {
+                "name": "天帝",
+                "value": 5
+            }
+        ]
+    },
+    {
+        "name": "回族",
+        "value": 1,
+        "data": [
+            {
+                "name": "黄帝",
+                "value": 1
+            }
+        ]
+    },
+    {
+        "name": "苗族",
+        "value": 5,
+        "data": [
+            {
+                "name": "女娲",
+                "value": 1
+            },
+            {
+                "name": "盘古",
+                "value": 9
+            },
+            {
+                "name": "盘瓠",
+                "value": 20
+            },
+            {
+                "name": "雷神",
+                "value": 11
+            },
+            {
+                "name": "天帝",
+                "value": 1
+            }
+        ]
+    },
+    {
+        "name": "毛南族",
+        "value": 1,
+        "data": [
+            {
+                "name": "盘古",
+                "value": 1
+            }
+        ]
+    },
+    {
+        "name": "土族",
+        "value": 3,
+        "data": [
+            {
+                "name": "盘古",
+                "value": 9
+            },
+            {
+                "name": "雷神",
+                "value": 1
+            },
+            {
+                "name": "格萨尔",
+                "value": 1
+            }
+        ]
+    },
+    {
+        "name": "白族",
+        "value": 2,
+        "data": [
+            {
+                "name": "盘古",
+                "value": 5
+            },
+            {
+                "name": "灶神",
+                "value": 1
+            }
+        ]
+    },
+    {
+        "name": "畲族",
+        "value": 4,
+        "data": [
+            {
+                "name": "盘古",
+                "value": 1
+            },
+            {
+                "name": "盘瓠",
+                "value": 69
+            },
+            {
+                "name": "雷神",
+                "value": 1
+            },
+            {
+                "name": "神农",
+                "value": 1
+            }
+        ]
+    },
+    {
+        "name": "黎族",
+        "value": 1,
+        "data": [
+            {
+                "name": "盘瓠",
+                "value": 2
+            }
+        ]
+    },
+    {
+        "name": "彝族",
+        "value": 3,
+        "data": [
+            {
+                "name": "盘瓠",
+                "value": 1
+            },
+            {
+                "name": "天女",
+                "value": 1
+            },
+            {
+                "name": "神农",
+                "value": 1
+            }
+        ]
+    },
+    {
+        "name": "纳西族",
+        "value": 2,
+        "data": [
+            {
+                "name": "丁巴什罗",
+                "value": 10
+            },
+            {
+                "name": "天女",
+                "value": 2
+            }
+        ]
+    },
+    {
+        "name": "佤族",
+        "value": 1,
+        "data": [
+            {
+                "name": "雷神",
+                "value": 1
+            }
+        ]
+    },
+    {
+        "name": "高山族",
+        "value": 1,
+        "data": [
+            {
+                "name": "雷神",
+                "value": 3
+            }
+        ]
+    },
+    {
+        "name": "满族",
+        "value": 1,
+        "data": [
+            {
+                "name": "雷神",
+                "value": 1
+            }
+        ]
+    },
+    {
+        "name": "哈萨克族",
+        "value": 1,
+        "data": [
+            {
+                "name": "雷神",
+                "value": 1
+            }
+        ]
+    },
+    {
+        "name": "布依族",
+        "value": 3,
+        "data": [
+            {
+                "name": "雷神",
+                "value": 1
+            },
+            {
+                "name": "天帝",
+                "value": 1
+            },
+            {
+                "name": "织女",
+                "value": 1
+            }
+        ]
+    },
+    {
+        "name": "鄂温克族",
+        "value": 1,
+        "data": [
+            {
+                "name": "天帝",
+                "value": 1
+            }
+        ]
+    },
+    {
+        "name": "蒙古族",
+        "value": 3,
+        "data": [
+            {
+                "name": "天帝",
+                "value": 1
+            },
+            {
+                "name": "天女",
+                "value": 1
+            },
+            {
+                "name": "嫦娥",
+                "value": 1
+            }
+        ]
+    },
+    {
+        "name": "羌族",
+        "value": 4,
+        "data": [
+            {
+                "name": "天女",
+                "value": 1
+            },
+            {
+                "name": "灶神",
+                "value": 1
+            },
+            {
+                "name": "格萨尔",
+                "value": 1
+            },
+            {
+                "name": "大禹",
+                "value": 20
+            }
+        ]
+    },
+    {
+        "name": "藏族",
+        "value": 2,
+        "data": [
+            {
+                "name": "格萨尔",
+                "value": 7
+            },
+            {
+                "name": "观音",
+                "value": 1
+            }
+        ]
+    },
+    {
+        "name": "裕固族",
+        "value": 1,
+        "data": [
+            {
+                "name": "格萨尔",
+                "value": 2
+            }
+        ]
+    },
+    {
+        "name": "仫佬族",
+        "value": 1,
+        "data": [
+            {
+                "name": "玉皇大帝",
+                "value": 1
+            }
+        ]
+    },
+    {
+        "name": "锡伯族",
+        "value": 1,
+        "data": [
+            {
+                "name": "玉皇大帝",
+                "value": 1
+            }
+        ]
+    }
+]

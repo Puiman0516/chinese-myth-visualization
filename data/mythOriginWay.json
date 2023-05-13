@@ -1,0 +1,542 @@
+﻿[
+    {
+        "name": "伏羲",
+        "entry": 46,
+        "originWay": [
+            {
+                "name": "自然存在",
+                "value": 15
+            },
+            {
+                "name": "生育产生",
+                "value": 12
+            },
+            {
+                "name": "变化产生",
+                "value": 3
+            },
+            {
+                "name": "婚生产生",
+                "value": 6
+            },
+            {
+                "name": "感生产生",
+                "value": 10
+            }
+        ]
+    },
+    {
+        "name": "黄帝",
+        "entry": 54,
+        "originWay": [
+            {
+                "name": "自然存在",
+                "value": 8
+            },
+            {
+                "name": "生育产生",
+                "value": 6
+            },
+            {
+                "name": "变化产生",
+                "value": 2
+            },
+            {
+                "name": "婚生产生",
+                "value": 13
+            },
+            {
+                "name": "感生产生",
+                "value": 21
+            },
+            {
+                "name": "转生产生",
+                "value": 4
+            }
+        ]
+    },
+    {
+        "name": "女娲",
+        "entry": 44,
+        "originWay": [
+            {
+                "name": "自然存在",
+                "value": 17
+            },
+            {
+                "name": "生育产生",
+                "value": 17
+            },
+            {
+                "name": "变化产生",
+                "value": 8
+            },
+            {
+                "name": "婚生产生",
+                "value": 1
+            },
+            {
+                "name": "感生产生",
+                "value": 1
+            }
+        ]
+    },
+    {
+        "name": "盘古",
+        "entry": 188,
+        "originWay": [
+            {
+                "name": "自然存在",
+                "value": 23
+            },
+            {
+                "name": "生育产生",
+                "value": 132
+            },
+            {
+                "name": "变化产生",
+                "value": 23
+            },
+            {
+                "name": "婚生产生",
+                "value": 6
+            },
+            {
+                "name": "感生产生",
+                "value": 3
+            },
+            {
+                "name": "转生产生",
+                "value": 1
+            }
+        ]
+    },
+    {
+        "name": "盘瓠",
+        "entry": 96,
+        "originWay": [
+            {
+                "name": "自然存在",
+                "value": 10
+            },
+            {
+                "name": "生育产生",
+                "value": 31
+            },
+            {
+                "name": "感生产生",
+                "value": 2
+            },
+            {
+                "name": "变化产生",
+                "value": 48
+            },
+            {
+                "name": "转生产生",
+                "value": 5
+            }
+        ]
+    },
+    {
+        "name": "布洛陀",
+        "entry": 7,
+        "originWay": [
+            {
+                "name": "生育产生",
+                "value": 2
+            },
+            {
+                "name": "自然存在",
+                "value": 3
+            },
+            {
+                "name": "感生产生",
+                "value": 2
+            }
+        ]
+    },
+    {
+        "name": "丁巴什罗",
+        "entry": 7,
+        "originWay": [
+            {
+                "name": "婚生产生",
+                "value": 2
+            },
+            {
+                "name": "自然存在",
+                "value": 5
+            }
+        ]
+    },
+    {
+        "name": "雷神",
+        "entry": 30,
+        "originWay": [
+            {
+                "name": "自然存在",
+                "value": 3
+            },
+            {
+                "name": "生育产生",
+                "value": 9
+            },
+            {
+                "name": "婚生产生",
+                "value": 1
+            },
+            {
+                "name": "变化产生",
+                "value": 17
+            }
+        ]
+    },
+    {
+        "name": "密洛陀",
+        "entry": 6,
+        "originWay": [
+            {
+                "name": "生育产生",
+                "value": 5
+            },
+            {
+                "name": "变化产生",
+                "value": 1
+            }
+        ]
+    },
+    {
+        "name": "天帝",
+        "entry": 14,
+        "originWay": [
+            {
+                "name": "生育产生",
+                "value": 4
+            },
+            {
+                "name": "感生产生",
+                "value": 3
+            },
+            {
+                "name": "婚生产生",
+                "value": 5
+            },
+            {
+                "name": "变化产生",
+                "value": 2
+            }
+        ]
+    },
+    {
+        "name": "天女",
+        "entry": 6,
+        "originWay": [
+            {
+                "name": "生育产生",
+                "value": 1
+            },
+            {
+                "name": "变化产生",
+                "value": 2
+            },
+            {
+                "name": "自然存在",
+                "value": 3
+            }
+        ]
+    },
+    {
+        "name": "灶神",
+        "entry": 6,
+        "originWay": [
+            {
+                "name": "变化产生",
+                "value": 5
+            },
+            {
+                "name": "自然存在",
+                "value": 1
+            }
+        ]
+    },
+    {
+        "name": "颛顼",
+        "entry": 4,
+        "originWay": [
+            {
+                "name": "感生产生",
+                "value": 2
+            },
+            {
+                "name": "婚生产生",
+                "value": 2
+            }
+        ]
+    },
+    {
+        "name": "嫦娥",
+        "entry": 8,
+        "originWay": [
+            {
+                "name": "变化产生",
+                "value": 8
+            }
+        ]
+    },
+    {
+        "name": "格萨尔",
+        "entry": 10,
+        "originWay": [
+            {
+                "name": "转生产生",
+                "value": 3
+            },
+            {
+                "name": "生育产生",
+                "value": 3
+            },
+            {
+                "name": "感生产生",
+                "value": 4
+            }
+        ]
+    },
+    {
+        "name": "观音",
+        "entry": 2,
+        "originWay": [
+            {
+                "name": "自然存在",
+                "value": 1
+            },
+            {
+                "name": "转生产生",
+                "value": 1
+            }
+        ]
+    },
+    {
+        "name": "妈祖",
+        "entry": 3,
+        "originWay": [
+            {
+                "name": "转生产生",
+                "value": 2
+            },
+            {
+                "name": "生育产生",
+                "value": 1
+            }
+        ]
+    },
+    {
+        "name": "太白金星",
+        "entry": 5,
+        "originWay": [
+            {
+                "name": "生育产生",
+                "value": 2
+            },
+            {
+                "name": "感生产生",
+                "value": 3
+            }
+        ]
+    },
+    {
+        "name": "西王母",
+        "entry": 5,
+        "originWay": [
+            {
+                "name": "婚生产生",
+                "value": 3
+            },
+            {
+                "name": "生育产生",
+                "value": 1
+            },
+            {
+                "name": "变化产生",
+                "value": 1
+            }
+        ]
+    },
+    {
+        "name": "玉皇大帝",
+        "entry": 16,
+        "originWay": [
+            {
+                "name": "自然存在",
+                "value": 1
+            },
+            {
+                "name": "生育产生",
+                "value": 3
+            },
+            {
+                "name": "感生产生",
+                "value": 3
+            },
+            {
+                "name": "变化产生",
+                "value": 9
+            }
+        ]
+    },
+    {
+        "name": "舜",
+        "entry": 43,
+        "originWay": [
+            {
+                "name": "自然存在",
+                "value": 3
+            },
+            {
+                "name": "生育产生",
+                "value": 14
+            },
+            {
+                "name": "变化产生",
+                "value": 4
+            },
+            {
+                "name": "婚生产生",
+                "value": 5
+            },
+            {
+                "name": "感生产生",
+                "value": 15
+            },
+            {
+                "name": "转生产生",
+                "value": 2
+            }
+        ]
+    },
+    {
+        "name": "神农",
+        "entry": 36,
+        "originWay": [
+            {
+                "name": "自然存在",
+                "value": 3
+            },
+            {
+                "name": "生育产生",
+                "value": 10
+            },
+            {
+                "name": "变化产生",
+                "value": 4
+            },
+            {
+                "name": "婚生产生",
+                "value": 3
+            },
+            {
+                "name": "感生产生",
+                "value": 14
+            },
+            {
+                "name": "转生产生",
+                "value": 2
+            }
+        ]
+    },
+    {
+        "name": "炎帝",
+        "entry": 25,
+        "originWay": [
+            {
+                "name": "自然存在",
+                "value": 3
+            },
+            {
+                "name": "婚生产生",
+                "value": 1
+            },
+            {
+                "name": "感生产生",
+                "value": 15
+            },
+            {
+                "name": "转生产生",
+                "value": 5
+            },
+            {
+                "name": "生育产生",
+                "value": 1
+            }
+        ]
+    },
+    {
+        "name": "大禹",
+        "entry": 94,
+        "originWay": [
+            {
+                "name": "自然存在",
+                "value": 2
+            },
+            {
+                "name": "生育产生",
+                "value": 30
+            },
+            {
+                "name": "变化产生",
+                "value": 15
+            },
+            {
+                "name": "婚生产生",
+                "value": 10
+            },
+            {
+                "name": "感生产生",
+                "value": 29
+            },
+            {
+                "name": "转生产生",
+                "value": 8
+            }
+        ]
+    },
+    {
+        "name": "尧",
+        "entry": 44,
+        "originWay": [
+            {
+                "name": "生育产生",
+                "value": 10
+            },
+            {
+                "name": "婚生产生",
+                "value": 12
+            },
+            {
+                "name": "感生产生",
+                "value": 21
+            },
+            {
+                "name": "转生产生",
+                "value": 1
+            }
+        ]
+    },
+    {
+        "name": "织女",
+        "entry": 6,
+        "originWay": [
+            {
+                "name": "自然存在",
+                "value": 3
+            },
+            {
+                "name": "生育产生",
+                "value": 2
+            },
+            {
+                "name": "变化产生",
+                "value": 1
+            }
+        ]
+    }
+]

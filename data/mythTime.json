@@ -1,0 +1,158 @@
+[
+    {
+        "name": "盘古",
+        "order": 1,
+        "prefix": "B.C.",
+        "year": 100000000
+    },
+    {
+        "name": "密洛陀",
+        "order": 2,
+        "prefix": "",
+        "year": ""
+    },
+    {
+        "name": "布洛陀",
+        "order": 3,
+        "prefix": "B.C.",
+        "year": 10000
+    },
+    {
+        "name": "盘瓠",
+        "order": 4,
+        "prefix": "B.C.",
+        "year": 7000
+    },
+    {
+        "name": "玉皇大帝",
+        "order": 5,
+        "prefix": "",
+        "year": ""
+    },
+    {
+        "name": "西王母",
+        "order": 6,
+        "prefix": "",
+        "year": ""
+    },
+    {
+        "name": "天帝",
+        "order": 7,
+        "prefix": "",
+        "year": ""
+    },
+    {
+        "name": "女娲",
+        "order": 8,
+        "prefix": "B.C.",
+        "year": 5800
+    },
+    {
+        "name": "雷神",
+        "order": 9,
+        "prefix": "",
+        "year": ""
+    },
+    {
+        "name": "神农",
+        "order": 10,
+        "prefix": "B.C.",
+        "year": 5400
+    },
+    {
+        "name": "伏羲",
+        "order": 11,
+        "prefix": "B.C.",
+        "year": 5000
+    },
+    {
+        "name": "太白金星",
+        "order": 12,
+        "prefix": "",
+        "year": ""
+    },
+    {
+        "name": "观音",
+        "order": 13,
+        "prefix": "",
+        "year": ""
+    },
+    {
+        "name": "黄帝",
+        "order": 14,
+        "prefix": "B.C.",
+        "year": 4660
+    },
+    {
+        "name": "炎帝",
+        "order": 15,
+        "prefix": "B.C.",
+        "year": 3400
+    },
+    {
+        "name": "颛顼",
+        "order": 16,
+        "prefix": "B.C.",
+        "year": 2700
+    },
+    {
+        "name": "天女",
+        "order": 17,
+        "prefix": "",
+        "year": ""
+    },
+    {
+        "name": "尧",
+        "order": 18,
+        "prefix": "B.C.",
+        "year": 2377
+    },
+    {
+        "name": "舜",
+        "order": 19,
+        "prefix": "B.C.",
+        "year": 2317
+    },
+    {
+        "name": "嫦娥",
+        "order": 20,
+        "prefix": "",
+        "year": ""
+    },
+    {
+        "name": "大禹",
+        "order": 21,
+        "prefix": "B.C.",
+        "year": 2146
+    },
+    {
+        "name": "丁巴什罗",
+        "order": 22,
+        "prefix": "",
+        "year": ""
+    },
+    {
+        "name": "灶神",
+        "order": 23,
+        "prefix": "B.C.",
+        "year": 1675
+    },
+    {
+        "name": "织女",
+        "order": 24,
+        "prefix": "B.C.",
+        "year": 1029
+    },
+    {
+        "name": "格萨尔",
+        "order": 25,
+        "prefix": "A.D.",
+        "year": 985
+    },
+    {
+        "name": "妈祖",
+        "order": 26,
+        "prefix": "A.D.",
+        "year": 618
+    }
+]

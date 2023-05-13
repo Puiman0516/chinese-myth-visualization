@@ -1,0 +1,69 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+@font-face {
+    /* font-properties */
+    font-family: ShuoWenJieZi;
+    src: url('../font/全字库说文解字.ttf')
+}
+
+@font-face {
+    /* font-properties */
+    font-family: Main;
+    src: url('../font/LXGWWenKai-Regular.ttf')
+}
+
+@font-face {
+    /* font-properties */
+    font-family: Title;
+    src: url('../font/QingLiuShuSIMO2.ttf')
+}
+
+.background {
+    z-index: -1;
+    position: fixed;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.background img {
+    opacity: 0.3;
+}
+
+
+.nav {
+    z-index: 1;
+    position: fixed;
+    top: 0;
+    right: 0;
+    list-style-type: none;
+    margin: 0;
+    padding: 10px;
+    overflow: hidden;
+    height: 50px;
+}
+
+.nav li {
+    float: right;
+    text-align: center;
+    width: 70px;
+    height: 50px;
+    -webkit-user-select: none;
+}
+
+.nav a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 45px, 50px;
+    text-decoration: none;
+}

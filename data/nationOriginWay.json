@@ -1,0 +1,375 @@
+﻿[
+    {
+        "name": "汉族",
+        "value": 749,
+        "data": [
+            {
+                "name": "自然存在",
+                "value": 61
+            },
+            {
+                "name": "生育产生",
+                "value": 171
+            },
+            {
+                "name": "变化产生",
+                "value": 67
+            },
+            {
+                "name": "婚生产生",
+                "value": 35
+            },
+            {
+                "name": "感生产生",
+                "value": 89
+            },
+            {
+                "name": "转生产生",
+                "value": 22
+            }
+        ]
+    },
+    {
+        "name": "瑶族",
+        "value": 73,
+        "data": [
+            {
+                "name": "自然存在",
+                "value": 3
+            },
+            {
+                "name": "生育产生",
+                "value": 19
+            },
+            {
+                "name": "变化产生",
+                "value": 9
+            },
+            {
+                "name": "感生产生",
+                "value": 2
+            }
+        ]
+    },
+    {
+        "name": "仡佬族",
+        "value": 1,
+        "data": [
+            {
+                "name": "自然存在",
+                "value": 1
+            }
+        ]
+    },
+    {
+        "name": "壮族",
+        "value": 36,
+        "data": [
+            {
+                "name": "婚生产生",
+                "value": 3
+            },
+            {
+                "name": "自然存在",
+                "value": 6
+            },
+            {
+                "name": "生育产生",
+                "value": 2
+            },
+            {
+                "name": "感生产生",
+                "value": 2
+            },
+            {
+                "name": "变化产生",
+                "value": 3
+            }
+        ]
+    },
+    {
+        "name": "侗族",
+        "value": 15,
+        "data": [
+            {
+                "name": "生育产生",
+                "value": 4
+            },
+            {
+                "name": "变化产生",
+                "value": 1
+            },
+            {
+                "name": "婚生产生",
+                "value": 3
+            }
+        ]
+    },
+    {
+        "name": "回族",
+        "value": 1,
+        "data": []
+    },
+    {
+        "name": "苗族",
+        "value": 42,
+        "data": [
+            {
+                "name": "生育产生",
+                "value": 18
+            },
+            {
+                "name": "自然存在",
+                "value": 7
+            },
+            {
+                "name": "变化产生",
+                "value": 4
+            },
+            {
+                "name": "婚生产生",
+                "value": 1
+            },
+            {
+                "name": "感生产生",
+                "value": 1
+            }
+        ]
+    },
+    {
+        "name": "毛南族",
+        "value": 1,
+        "data": [
+            {
+                "name": "生育产生",
+                "value": 1
+            }
+        ]
+    },
+    {
+        "name": "土族",
+        "value": 11,
+        "data": [
+            {
+                "name": "生育产生",
+                "value": 7
+            },
+            {
+                "name": "自然存在",
+                "value": 1
+            },
+            {
+                "name": "转生产生",
+                "value": 1
+            }
+        ]
+    },
+    {
+        "name": "白族",
+        "value": 6,
+        "data": []
+    },
+    {
+        "name": "畲族",
+        "value": 72,
+        "data": [
+            {
+                "name": "生育产生",
+                "value": 16
+            },
+            {
+                "name": "感生产生",
+                "value": 2
+            },
+            {
+                "name": "变化产生",
+                "value": 29
+            },
+            {
+                "name": "转生产生",
+                "value": 5
+            },
+            {
+                "name": "自然存在",
+                "value": 1
+            }
+        ]
+    },
+    {
+        "name": "黎族",
+        "value": 2,
+        "data": [
+            {
+                "name": "自然存在",
+                "value": 2
+            }
+        ]
+    },
+    {
+        "name": "彝族",
+        "value": 3,
+        "data": [
+            {
+                "name": "生育产生",
+                "value": 2
+            },
+            {
+                "name": "自然存在",
+                "value": 1
+            }
+        ]
+    },
+    {
+        "name": "纳西族",
+        "value": 12,
+        "data": [
+            {
+                "name": "婚生产生",
+                "value": 2
+            },
+            {
+                "name": "自然存在",
+                "value": 7
+            }
+        ]
+    },
+    {
+        "name": "佤族",
+        "value": 1,
+        "data": [
+            {
+                "name": "变化产生",
+                "value": 1
+            }
+        ]
+    },
+    {
+        "name": "高山族",
+        "value": 3,
+        "data": [
+            {
+                "name": "变化产生",
+                "value": 3
+            }
+        ]
+    },
+    {
+        "name": "满族",
+        "value": 1,
+        "data": [
+            {
+                "name": "变化产生",
+                "value": 1
+            }
+        ]
+    },
+    {
+        "name": "哈萨克族",
+        "value": 1,
+        "data": [
+            {
+                "name": "自然存在",
+                "value": 1
+            }
+        ]
+    },
+    {
+        "name": "布依族",
+        "value": 3,
+        "data": [
+            {
+                "name": "婚生产生",
+                "value": 1
+            },
+            {
+                "name": "自然存在",
+                "value": 1
+            }
+        ]
+    },
+    {
+        "name": "鄂温克族",
+        "value": 1,
+        "data": []
+    },
+    {
+        "name": "蒙古族",
+        "value": 3,
+        "data": [
+            {
+                "name": "变化产生",
+                "value": 2
+            },
+            {
+                "name": "自然存在",
+                "value": 1
+            }
+        ]
+    },
+    {
+        "name": "羌族",
+        "value": 23,
+        "data": [
+            {
+                "name": "变化产生",
+                "value": 3
+            },
+            {
+                "name": "生育产生",
+                "value": 2
+            },
+            {
+                "name": "自然存在",
+                "value": 1
+            }
+        ]
+    },
+    {
+        "name": "藏族",
+        "value": 8,
+        "data": [
+            {
+                "name": "转生产生",
+                "value": 3
+            },
+            {
+                "name": "生育产生",
+                "value": 2
+            },
+            {
+                "name": "感生产生",
+                "value": 2
+            }
+        ]
+    },
+    {
+        "name": "裕固族",
+        "value": 2,
+        "data": [
+            {
+                "name": "感生产生",
+                "value": 2
+            }
+        ]
+    },
+    {
+        "name": "仫佬族",
+        "value": 1,
+        "data": [
+            {
+                "name": "自然存在",
+                "value": 1
+            }
+        ]
+    },
+    {
+        "name": "锡伯族",
+        "value": 1,
+        "data": [
+            {
+                "name": "变化产生",
+                "value": 1
+            }
+        ]
+    }
+]
