@@ -104,7 +104,7 @@ const mythImg = {
         // 图
         img.append('image')
             .attr('height', style.img.height - style.img.margin + style.img.padding[1])
-            .attr('href', (d) => `../../../assets/img/myth/${d.name}.png`)
+            .attr('href', (d) => `./assets/img/myth/${d.name}.png`)
             .attr('x', function (d) {
                 // 特定人物位置微调
                 let mythMargin = style.img.mythMargin[d.name] ? style.img.mythMargin[d.name] : 0
