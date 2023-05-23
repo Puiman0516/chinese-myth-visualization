@@ -12,11 +12,32 @@
             background-color: #000000;
             color: white;
             overflow: hidden;
+            flex-direction: column;
+            justify-content: space-between;
+            height: 100vh;
         }
 
         .timeLine {
             height: 100%;
             width: 100%;
+        }
+
+        .citation {
+            display: flex;
+            flex-direction: row;
+            flex-wrap: wrap;
+            background-color: rgba(0, 0, 0, 0.8);
+            color: rgb(191, 191, 191);
+            width: 100%;
+            min-height: 30px;
+            align-items: center;
+            justify-content: end;
+            font-family: Main;
+            font-size: 14px;
+        }
+
+        .citation a {
+            color: rgb(191, 191, 191);
         }
     </style>
 </head>
@@ -34,6 +55,14 @@
         <img src="./assets/img/background.png" />
     </div>
     <div class="timeLine"></div>
+    <div class="citation">
+        <div>数据来源：</div>
+        <a target="_blank" href="https://www.scidb.cn/en/detail?dataSetId=c37bc453d09c48ad8daaa424081e5313#">
+            A Dataset of Origin Motifs of Major Chinese Mythological Characters
+        </a>
+        <div>　数据作者：Wang Jing, Xiong Hui, Qilegele, et al.</div>
+    </div>
+
     <script src="./lib/d3.js"></script>
     <script type="module" src="./script/index/index.js"></script>
 </body>
